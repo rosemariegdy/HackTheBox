@@ -1,1 +1,1 @@
-# HackTheBox
+This is hosted by the Cybersecurity Club. We do hack the box machines in order to learn about the security measures by enhancing the offensive and defensive security expertise and practice ethical hacking using virtual machines. We use Kali Linux/Linux in a virtual machine in order to do the challanges in hack the box. 
